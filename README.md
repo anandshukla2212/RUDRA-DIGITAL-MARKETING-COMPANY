@@ -16,7 +16,7 @@
 
     header {
       background-color: #2c3e50;
-      color: white;
+      color: WHITE;
       text-align: center;
       padding: 2rem 1rem;
     }
@@ -49,7 +49,7 @@
 
     section {
       padding: 2rem;
-      max-width: 1000px;
+      max-width: 100px;
       margin: auto;
       background-color: white;
       margin-top: 1rem;
@@ -84,7 +84,7 @@
       border-radius: 8px;
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 150px) {
       nav {
         flex-direction: column;
       }
