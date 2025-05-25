@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Rudra Digital Marketing of India</title>
+  <title>Rudra Digital Marketing COMPANY of India</title>
   <style>
     * {
       margin: 0;
