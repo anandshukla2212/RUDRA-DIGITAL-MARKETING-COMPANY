@@ -5,6 +5,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Rudra Digital Marketing of India</title>
+  <meta name="description" content="Rudra Digital Marketing of India offers expert digital marketing services like SMM, PPC, Content Strategy, and Website Design.">
+  <meta name="keywords" content="Digital Marketing, Social Media, PPC, Website Design, Content Strategy, Rudra India">
+  <meta name="author" content="Anand Shukla">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -16,13 +19,13 @@
 
     header {
       background-color: #2c3e50;
-      color: WHITE;
+      color: white;
       text-align: center;
       padding: 2rem 1rem;
     }
 
     header img {
-      width: 120px;
+      width: 100px;
       height: auto;
       border-radius: 50%;
       margin-bottom: 10px;
@@ -49,7 +52,7 @@
 
     section {
       padding: 2rem;
-      max-width: 100px;
+      max-width: 1000px;
       margin: auto;
       background-color: white;
       margin-top: 1rem;
@@ -75,6 +78,9 @@
       height: auto;
       border-radius: 10px;
       margin-top: 10px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .owner-card {
@@ -82,9 +88,15 @@
       padding: 1rem;
       background-color: #ecf0f1;
       border-radius: 8px;
+      text-align: center;
     }
 
-    @media (max-width: 150px) {
+    .owner-card img {
+      width: 100px;
+      height: auto;
+    }
+
+    @media (max-width: 600px) {
       nav {
         flex-direction: column;
       }
@@ -110,50 +122,52 @@
     <a href="#owner">Owner Details</a>
   </nav>
 
-  <section id="about">
-    <h2>About Us</h2>
-    <p>
-      Rudra Digital Marketing of India is a leading digital marketing agency
-      committed to delivering measurable results through innovative strategies.
-      We specialize in helping businesses grow online through targeted campaigns
-      and cutting-edge technology.
-    </p>
-  </section>
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>
+        Rudra Digital Marketing of India is a leading digital marketing agency
+        committed to delivering measurable results through innovative strategies.
+        We specialize in helping businesses grow online through targeted campaigns
+        and cutting-edge technology.
+      </p>
+    </section>
 
-  <section id="services">
-    <h2>Our Services</h2>
-    <ul>
-      <li>HTML Code Specialization</li>
-      <li>Social Media Marketing</li>
-      <li>Pay-Per-Click Advertising (PPC)</li>
-      <li>Content Strategy</li>
-      <li>Website Design</li>
-    </ul>
-  </section>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>HTML Code Specialization</li>
+        <li>Social Media Marketing</li>
+        <li>Pay-Per-Click Advertising (PPC)</li>
+        <li>Content Strategy</li>
+        <li>Website Design</li>
+      </ul>
+    </section>
 
-  <section id="contact">
-    <h2>Contact Us</h2>
-    <p><strong>Email:</strong> anandshukla221206@gmail.com</p>
-    <p><strong>Phone 1:</strong> +91-8467063125</p>
-    <p><strong>Phone 2:</strong> +91-9161174816</p>
-    <p><strong>Address:</strong> Naini, Prayagraj, India</p>
-  </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p><strong>Email:</strong> <a href="mailto:anandshukla221206@gmail.com">anandshukla221206@gmail.com</a></p>
+      <p><strong>Phone 1:</strong> <a href="tel:+918467063125">+91-8467063125</a></p>
+      <p><strong>Phone 2:</strong> <a href="tel:+919161174816">+91-9161174816</a></p>
+      <p><strong>Address:</strong> Naini, Prayagraj, India</p>
+    </section>
 
-  <section id="owner">
-    <h2>Owner Details</h2>
+    <section id="owner">
+      <h2>Owner Details</h2>
 
-    <div class="owner-card">
-      <h3>Founder: Anand Shukla</h3>
-      <img src="ANAND.jpg" alt="Founder Anand Shukla" height="150" />
-      <p><strong>Mobile:</strong> +91-8467063125</p>
-    </div>
+      <div class="owner-card">
+        <h3>Founder: Anand Shukla</h3>
+        <img src="ANAND.jpg" alt="Founder Anand Shukla" />
+        <p><strong>Mobile:</strong> <a href="tel:+918467063125">+91-8467063125</a></p>
+      </div>
 
-    <div class="owner-card">
-      <h3>Co-Founder: Anupam Panday</h3>
-      <img src="ANUPAM.jpg" alt="Co-Founder Anupam Panday" height="100" />
-      <p><strong>Mobile:</strong> +91-9161174816</p>
-    </div>
-  </section>
+      <div class="owner-card">
+        <h3>Co-Founder: Anupam Panday</h3>
+        <img src="ANUPAM.jpg" alt="Co-Founder Anupam Panday" />
+        <p><strong>Mobile:</strong> <a href="tel:+919161174816">+91-9161174816</a></p>
+      </div>
+    </section>
+  </main>
 
   <footer>
     <p>&copy; 2025 Rudra Digital Marketing of India. All rights reserved.</p>
