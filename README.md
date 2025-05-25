@@ -115,10 +115,8 @@
   </header>
 
   <nav>
-    <a href="#about">About</a>
-    <a href="#services">Services</a>
-    <a href="#contact">Contact</a>
-    <a href="#owner">Owner</a>
+    
+    
   </nav>
 
   <section id="about">
@@ -165,7 +163,14 @@
       <p><strong>Mobile:</strong> <a href="tel:+919161174816">+91-9161174816</a></p>
     </div>
   </section>
-
+<nav>
+    
+  <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+    <a href="#owner">Owner</a>
+   <a href="#about">About</a>
+    
+  </nav>
   <footer>
     <p>&copy; 2025 Rudra Digital Marketing of India. All rights reserved.</p>
   </footer>
