@@ -147,7 +147,7 @@
     <p><strong>Email:</strong> <a href="mailto:anandshukla221206@gmail.com">anandshukla221206@gmail.com</a></p>
     <p><strong>Phone 1:</strong> <a href="tel:+918467063125">+91-8467063125</a></p>
     <p><strong>Phone 2:</strong> <a href="tel:+919161174816">+91-9161174816</a></p>
-    <p><strong>Address:</strong> Naini, Prayagraj, India</p>
+    <p><strong>Address:</strong>  Prayagraj, India</p>
   </section>
 
   <section id="owner">
