@@ -110,7 +110,7 @@
 
   <header>
     <img src="rudra.jpg" alt="Rudra Logo" />
-    <h1>Rudra Digital Marketing of India</h1>
+    <h1>RUDRA DIGITAL MARKETING COMPANY OF INDIA</h1>
     <p>Empowering Your Brand in the Digital World</p>
   </header>
 
