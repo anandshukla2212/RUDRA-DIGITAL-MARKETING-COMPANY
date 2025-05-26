@@ -171,6 +171,9 @@
       <p><strong>Email:</strong> <a href="mailto:anandshukla221206@gmail.com">anandshukla221206@gmail.com</a></p>
       <p><strong>Phone 1:</strong> <a href="tel:+918467063125">+91-8467063125</a></p>
       <p><strong>Phone 2:</strong> <a href="tel:+919161174816">+91-9161174816</a></p>
+      <p><strong>Mobile:</strong> <a href="tel:+91 95321 56562">++91 95321 56562</a></p>
+      <p><strong>Mobile:</strong> <a href="tel:+919452789402">+91-9452789402</a></p>
+      <p><strong>Mobile:</strong> <a href="tel:+919794585571">+91-9794585571</a></p>
       <p><strong>Address:</strong> Naini, Prayagraj, India</p>
     </section>
 
@@ -183,12 +186,14 @@
           <h3>Founder: Anand Shukla</h3>
           <img src="ANAND.jpg" alt="Founder Anand Shukla" />
           <p><strong>Mobile:</strong> <a href="tel:+918467063125">+91-8467063125</a></p>
+           <h3>email id-anandshukla221206@gmail.com</h3>
         </div>
 
         <div class="owner-card large">
           <h3>Co-Founder: Anupam Panday</h3>
           <img src="ANUPAM.jpg" alt="Co-Founder Anupam Panday" />
           <p><strong>Mobile:</strong> <a href="tel:+919161174816">+91-9161174816</a></p>
+          <h3>email id-anupampandeyunique@gmail.com</h3>
         </div>
       </div>
 
@@ -197,7 +202,7 @@
         <div class="owner-card small">
           <h3>Manager: Anuj Maurya</h3>
           <img src="ANUJ.jpg" alt="Manager Anuj Maurya" />
-          <p><strong>Mobile:</strong> <a href="tel:+919161174816">+91-9161174816</a></p>
+          <p><strong>Mobile:</strong> <a href="tel:+91 95321 56562">++91 95321 56562</a></p>
           <p><strong>Email:</strong> anujmaurya0104@gmail.com</p>
         </div>
 
