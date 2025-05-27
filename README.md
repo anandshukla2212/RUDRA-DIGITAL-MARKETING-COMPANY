@@ -133,7 +133,7 @@
 
   <header>
     <img src="rudra.jpg" alt="Rudra Digital Marketing Logo" />
-    <h1>Rudra Digital Marketing of India</h1>
+    <h1>Rudra Digital Marketing company of India</h1>
     <p>Empowering Your Brand in the Digital World</p>
   </header>
 
@@ -148,7 +148,7 @@
     <section id="about">
       <h2>About Us</h2>
       <p>
-        Rudra Digital Marketing of India is a leading digital marketing agency
+        Rudra Digital Marketing comapany of India is a leading digital marketing agency
         committed to delivering measurable results through innovative strategies.
         We specialize in helping businesses grow online through targeted campaigns
         and cutting-edge technology.
