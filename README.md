@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Rudra Digital Marketing of India</title>
-  <meta name="description" content="Rudra Digital Marketing of India offers expert digital marketing services like SMM, PPC, Content Strategy, and Website Design.">
+  <title>Rudra Digital Marketing company of India</title>
+  <meta name="description" content="Rudra Digital Marketing company of India offers expert digital marketing services like SMM, PPC, Content Strategy, and Website Design.">
   <meta name="keywords" content="Digital Marketing, Social Media, PPC, Website Design, Content Strategy, Rudra India">
   <meta name="author" content="Anand Shukla">
   <style>
